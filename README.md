@@ -1,4 +1,4 @@
-# Musify
+# Music Streaming Web Application
 [![Project Status: Inactive – The project has reached a stable, usable state but is no longer being actively developed; support/maintenance will be provided as time allows.](https://www.repostatus.org/badges/latest/inactive.svg)](https://www.repostatus.org/#inactive)
 
 Musify is a clone of the popular Spotify app built completely using Jetpack compose. Both podcasts episodes and tracks are available for playback. Under the hood, it uses the Spotify API to fetch the data. It is 
