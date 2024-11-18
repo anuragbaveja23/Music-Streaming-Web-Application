@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/54663474/218087723-0bf43793-3ff4-4e24-
 </dl>
 
 ## Source code, Architecture, & Testing
-- All concrete implementations are prefixed by the term "Musify".
+- All concrete implementations are prefixed by the term Music Streaming Web Application
 - Uses multi-repository pattern.
 - MVVM archtecture.
 - Commit messages follow the [Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/) specification.
